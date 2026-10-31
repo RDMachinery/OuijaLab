@@ -2,7 +2,7 @@
 
 **A talking board that spells out messages from beyond. Nobody is pushing it. Honest.**
 
-![Ouija Lab mid-séance, with the hands revealed](screenshot.png)
+![Ouija Lab mid-séance, with the hands revealed](reveal.png)
 
 Four sitters rest their fingers on the planchette. You ask a question. The planchette begins to stir… and slowly, letter by letter, it spells out an answer.
 
